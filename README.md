@@ -1,4 +1,4 @@
-# 🎨 FlowLauncher Ayu Theme
+# 🎨 Flow Launcher Ayu theme
 Dark theme for [Flow launcher](https://github.com/Flow-Launcher/Flow.Launcher/), based on the [Ayu](https://github.com/dempfi/ayu) color scheme.
 
 ## 🛠️ Installation
